@@ -27,3 +27,16 @@ git push origin main
 
       - name: Run a command
         run: echo "Hello, GitHub Actions!"
+
+        # Bienvenue dans Slidev
+
+- Créez des présentations interactives
+- Utilisez Markdown pour vos diapositives
+
+---
+
+## Exemple de code
+
+```python
+def hello():
+    print("Hello, World!")
